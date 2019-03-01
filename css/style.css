@@ -908,7 +908,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media  (max-width : 768px){
 #call .nav-tabs a{
-  padding:10px 0px;
+  width:100% !important;
+  padding:10px 0px !important;
 }
 }
 #venue .container-fluid ,#call .container-fluid{
